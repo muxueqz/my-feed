@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-10-22T04:00:21.112Z</id>
+    <id>urn:2021-10-22T04:03:08.936Z</id>
     <title>osmos::feed</title>
-    <updated>2021-10-22T04:00:21.112Z</updated>
+    <updated>2021-10-22T04:03:08.936Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -35,33 +35,23 @@ The post The CSS-in-React Landscape appeared first on CSS-Tricks. You can suppor
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dotfiles – What is a Dotfile and How to Create it in Mac and Linux]]></title>
-        <id>616fed81d48e1707b6d7898e</id>
-        <link href="https://www.freecodecamp.org/news/dotfiles-what-is-a-dot-file-and-how-to-create-it-in-mac-and-linux/"/>
-        <updated>2021-10-21T19:49:01.000Z</updated>
-        <summary type="html"><![CDATA[Dotfiles are important files that will play an integral role in your career as a software developer.  First, they can help make you more productive. But not only that - you'll be able to have that productive setup you created for youself on any machine.  This article is an introduction]]></summary>
+        <title type="html"><![CDATA[Debug 一个在 uWSGI 下使用 subprocess 卡住的问题]]></title>
+        <id>https://www.kawabangga.com/?p=4558</id>
+        <link href="https://www.kawabangga.com/posts/4558"/>
+        <updated>2021-10-21T17:52:43.000Z</updated>
+        <summary type="html"><![CDATA[今天花了很长的时间在排查一个诡异的问题，值得记录一下。 本来是想写一个 HTTP 的服务，你告诉这个 HTTP […]
+Continue reading...
+The post Debug 一个在 uWSGI 下使用 subprocess 卡住的问题 first appeared on 卡瓦邦噶！.
+
+相关文章:
+
+uWSGI socket 队列被占满的问题
+部署 Django 项目背后的原理：为什么需要 Nginx 和 Gunicron这些东西？
+我的线程池怎么没了？
+使用uWSGI的spooler做异步任务
+Django的日志配置]]></summary>
         <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Code an Endless Runner Game Using Unreal Engine and C++]]></title>
-        <id>6171b7b2d48e1707b6d79998</id>
-        <link href="https://www.freecodecamp.org/news/code-an-endless-runner-game-using-unreal-engine-and-c/"/>
-        <updated>2021-10-21T19:02:44.000Z</updated>
-        <summary type="html"><![CDATA[Endless runner games can be fun and addicting. Also, an endless runner game is a great game development project for a beginner. We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to create an endless runner game using Unreal Engine and C++. Fahir]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is msmpeng.exe? Why is it High CPU Disk Usage?]]></title>
-        <id>617144ced48e1707b6d79686</id>
-        <link href="https://www.freecodecamp.org/news/what-is-msmpeng-exe-why-is-it-of-high-cpu-disk-usage/"/>
-        <updated>2021-10-21T15:01:54.000Z</updated>
-        <summary type="html"><![CDATA[msmpeng.exe is an important part of Windows Security, formerly known as Windows Defender. It scans your computer for various threats ranging from malware to spyware, then renders the appropriate solution(s).  In this article, I will take you through what mempeng.exe is, the reason why it eats up]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
+            <name>laixintao</name>
         </author>
     </entry>
     <entry>
@@ -87,16 +77,6 @@ The post How to Create a Contact Form With Next.js and Netlify appeared first on
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Use the Adapter Design Pattern in React]]></title>
-        <id>617058f3d48e1707b6d7913d</id>
-        <link href="https://www.freecodecamp.org/news/adapter-design-in-react/"/>
-        <updated>2021-10-21T00:33:49.000Z</updated>
-        <summary type="html"><![CDATA[When you're coding in React or any other tool, you might want or need to use a third-party library. Let's talk about an approach which will ensure that the third-party libraries you use will blend well with your application. As application developers, there's no need to reinvent the wheel every]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Some Typography Links VIII]]></title>
         <id>https://css-tricks.com/?p=353866</id>
         <link href="https://css-tricks.com/some-typography-links-viii/"/>
@@ -106,36 +86,6 @@ The post How to Create a Contact Form With Next.js and Netlify appeared first on
 The post Some Typography Links VIII appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Angular - Crash Course]]></title>
-        <id>61708409d48e1707b6d79387</id>
-        <link href="https://www.freecodecamp.org/news/learn-angular-full-course/"/>
-        <updated>2021-10-20T21:07:05.000Z</updated>
-        <summary type="html"><![CDATA[Angular is a TypeScript-based free and open-source web application framework created by Google. We just published a 2-hour Angular crash course on the freeCodeCamp.org YouTube channel. Slobodan Gajic created this course. Slobodan has created a bunch of amazing courses on his own channel. In this course you will learn]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Safe Area Context in React Native Apps to Avoid the Notch]]></title>
-        <id>616945f580d82d07c45a5160</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-safe-area-context-to-avoid-notches-in-react-native-apps/"/>
-        <updated>2021-10-20T19:37:59.000Z</updated>
-        <summary type="html"><![CDATA[Most devices nowadays come with a notch at the top of the screen. So when you're building a mobile application using React Native, you need to make sure that the content of the app's screen is rendered correctly across different types of devices. In this article, we'll look at two]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is my IP Address for my Router? How to Find your Wifi Address]]></title>
-        <id>616ffc6dd48e1707b6d78992</id>
-        <link href="https://www.freecodecamp.org/news/what-is-my-ip-address-for-my-router-how-to-find-your-wifi-address/"/>
-        <updated>2021-10-20T19:36:40.000Z</updated>
-        <summary type="html"><![CDATA[Sometimes you might need to know your router’s IP address. This will give you access to the setup page so you can make configuration changes like changing passwords, kicking out unwanted users, limiting users, and so on.  In this article, I will show you how to find out what]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -171,33 +121,23 @@ The post @supports selector() appeared first on CSS-Tricks. You can support CSS-
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GraphQL for Front End Developers]]></title>
-        <id>616bcb8580d82d07c45a5deb</id>
-        <link href="https://www.freecodecamp.org/news/graphql-for-front-end-developers/"/>
-        <updated>2021-10-19T17:19:00.000Z</updated>
-        <summary type="html"><![CDATA[If you are a front end developer who is new to the world of GraphQL and you're thinking about getting started with it, this article is for you.  In this article, we will explore GraphQL basics and kick start our journey with it by building a simple project.  What is]]></summary>
+        <title type="html"><![CDATA[TTY 到底是什么？]]></title>
+        <id>https://www.kawabangga.com/?p=4515</id>
+        <link href="https://www.kawabangga.com/posts/4515"/>
+        <updated>2021-10-19T17:08:01.000Z</updated>
+        <summary type="html"><![CDATA[先来回答一道面试题：我们知道在终端中有一些常用的快捷键，Ctrl+E 可以移动到行尾，Ctrl+W 可以删除一 […]
+Continue reading...
+The post TTY 到底是什么？ first appeared on 卡瓦邦噶！.
+
+相关文章:
+
+Vim:移动窗口和tab
+Vim:快速复制和替换
+推荐 Vim 进阶书籍：《Vim 实用技巧》
+一些命令行工具的增强版
+Vim LSP 配置]]></summary>
         <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Implement Binary Tree Algorithms in Technical Interviews]]></title>
-        <id>616ef9b5d48e1707b6d78265</id>
-        <link href="https://www.freecodecamp.org/news/how-to-implement-binary-tree-algorithms-in-technical-interviews/"/>
-        <updated>2021-10-19T17:13:24.000Z</updated>
-        <summary type="html"><![CDATA[A binary tree is a common data structure used in software development. It is also a frequent topic in technical coding interviews. We just published a course on the freeCodeCamp.org YouTube channel that will teach you all about binary tree algorithms and prepare you to use them in coding]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn TensorFlow Lite for Edge Devices]]></title>
-        <id>616ef6efd48e1707b6d7822c</id>
-        <link href="https://www.freecodecamp.org/news/learn-tensorflow-lite-for-edge-devices/"/>
-        <updated>2021-10-19T16:58:53.000Z</updated>
-        <summary type="html"><![CDATA[TensorFlow Lite is an open source deep learning framework that can be used on small devices. We just published a TensorFlow Lite course on the freeCodeCamp.org YouTube channel. Bhavesh Bhatt created this course. Bhavesh has created many courses on his own channel and is a great teacher. TensorFlow Lite]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
+            <name>laixintao</name>
         </author>
     </entry>
     <entry>
