@@ -1,10 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-10-22T04:03:08.936Z</id>
+    <id>urn:2021-10-23T00:40:07.506Z</id>
     <title>osmos::feed</title>
-    <updated>2021-10-22T04:03:08.936Z</updated>
+    <updated>2021-10-23T00:40:07.506Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Can Include (a Certain HTML element within another Certain HTML Element)]]></title>
+        <id>https://css-tricks.com/?p=354567</id>
+        <link href="https://caninclude.glitch.me/"/>
+        <updated>2021-10-22T17:57:30.000Z</updated>
+        <summary type="html"><![CDATA[A single-serving website from Alexander Vishnyakov for testing if it’s valid to put any particular HTML element within another type of HTML element. Kinda neat to have a quick reference for this.
+Some combinations feel fairly obvious: can you put …
+The post Can Include (a Certain HTML element within another Certain HTML Element) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploring the CSS Paint API: Rounding Shapes]]></title>
+        <id>https://css-tricks.com/?p=353391</id>
+        <link href="https://css-tricks.com/exploring-the-css-paint-api-rounding-shapes/"/>
+        <updated>2021-10-22T14:02:54.000Z</updated>
+        <summary type="html"><![CDATA[Adding borders to complex shapes is a pain, but rounding the corner of complex shapes is a nightmare! Luckily, the CSS Paint API is here to the rescue! That’s what we’re going to look at as part of this “Exploring …
+The post Exploring the CSS Paint API: Rounding Shapes appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Build A Real-Time Multi-User Game From Scratch]]></title>
+        <id>https://smashingmagazine.com/2021/10/real-time-multi-user-game/</id>
+        <link href="https://smashingmagazine.com/2021/10/real-time-multi-user-game/"/>
+        <updated>2021-10-22T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[This article highlights the process, technical decisions and lessons learned behind building the real-time game Autowuzzler. Learn how to share game state across multiple clients in real-time with Colyseus, do physics calculations with Matter.js, store data in Supabase.io and build the front-end with SvelteKit.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Martin Grubinger)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What if… you could use Visual Studio Code as the editor of in-browser Developer Tools?]]></title>
         <id>https://css-tricks.com/?p=354537</id>
@@ -293,28 +326,6 @@ The post Bonsai Browser appeared first on CSS-Tricks. You can support CSS-Tricks
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CSS is Going Gosh-Darned Hog Wild, I Tell Ya What]]></title>
-        <id>https://css-tricks.com/?p=352459</id>
-        <link href="https://css-tricks.com/css-is-going-gosh-darned-hog-wild-i-tell-ya-what/"/>
-        <updated>2021-10-13T15:36:43.000Z</updated>
-        <summary type="html"><![CDATA[As someone just sittin’ back watching CSS evolve, it feels like we’re at one of the hottest moments of innovation in CSS history. It was really something when we got flexbox across all browsers, and not terribly long after, grid. …
-The post CSS is Going Gosh-Darned Hog Wild, I Tell Ya What appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Less Absolute Positioning With Modern CSS]]></title>
-        <id>https://css-tricks.com/?p=353700</id>
-        <link href="https://ishadeed.com/article/less-absolute-positioning-modern-css/"/>
-        <updated>2021-10-13T14:42:26.000Z</updated>
-        <summary type="html"><![CDATA[Ahmad Shadeed blogs the sentiment that we might not need to lean on position: absolute as much as we might have in the past. For one thing: stacking elements. For example, if you have a stack of elements that should …
-The post Less Absolute Positioning With Modern CSS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Upcoming Live Workshops On Front-End & UX (Oct 2021&ndash;Jan 2022)]]></title>
         <id>https://smashingmagazine.com/2021/10/new-smashing-online-workshops-oct-2021/</id>
         <link href="https://smashingmagazine.com/2021/10/new-smashing-online-workshops-oct-2021/"/>
@@ -496,16 +507,6 @@ Thank you: @CaptNo1]]></summary>
         <summary type="html"><![CDATA[You’ve seen them before. Confusing and frustrating design patterns that seem to be chasing you everywhere you go, from one website to another. It’s time to fix them for good in a [free Smashing online workshop](https://smashingconf.com/online-workshops/workshops/vitaly-friedman-frustrating-patterns/) next week.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Simplifying Form Styles With `accent-color`]]></title>
-        <id>https://smashingmagazine.com/2021/09/simplifying-form-styles-accent-color/</id>
-        <link href="https://smashingmagazine.com/2021/09/simplifying-form-styles-accent-color/"/>
-        <updated>2021-09-23T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The new CSS `accent-color` property makes it quick and easy to roll out our brand colors to certain form inputs by leveraging user agent styles. In this article we’ll take a look at what it does and how to use it alongside `color-scheme` for simple, accessible checkboxes and radio buttons — and imagine how we might use it in the future.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Michelle Barker)</name>
         </author>
     </entry>
 </feed>
