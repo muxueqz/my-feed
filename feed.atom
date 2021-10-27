@@ -1,10 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-10-26T00:35:39.635Z</id>
+    <id>urn:2021-10-27T00:35:51.427Z</id>
     <title>osmos::feed</title>
-    <updated>2021-10-26T00:35:39.635Z</updated>
+    <updated>2021-10-27T00:35:51.427Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[On Browser-Specific URL Schemes]]></title>
+        <id>https://css-tricks.com/?p=354365</id>
+        <link href="https://css-tricks.com/on-browser-specific-url-schemes/"/>
+        <updated>2021-10-26T20:06:29.000Z</updated>
+        <summary type="html"><![CDATA[We’ve covered URL schemes: 
+A URL Scheme is like “http://…” or “ftp://…”. Those seem like a very low-level concept that you don’t have much control over, but actually, you do!
+I’d call it non-trivial, but developers can register new …
+The post On Browser-Specific URL Schemes appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In-Page Filtered Search With Vanilla JavaScript]]></title>
+        <id>https://css-tricks.com/?p=353747</id>
+        <link href="https://css-tricks.com/in-page-filtered-search-with-vanilla-javascript/"/>
+        <updated>2021-10-26T14:11:59.000Z</updated>
+        <summary type="html"><![CDATA[If you have a page that includes a lot of information, it’s a good idea to let users search for what they might be looking for. I’m not talking about searching a database or even searching JSON data — I’m …
+The post In-Page Filtered Search With Vanilla JavaScript appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Hilman Ramadhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Userwell is for Managing Customer Feedback]]></title>
+        <id>https://css-tricks.com/?p=353621</id>
+        <link href="https://css-tricks.com/userwell-is-for-managing-customer-feedback/"/>
+        <updated>2021-10-26T14:10:05.000Z</updated>
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+Building products for users is a balance between your vision of what your product can do for them, and refining that vision based on their feedback. If you’re really a customer-focused company, you’re listening. …
+The post Userwell is for Managing Customer Feedback appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimizing Next.js Applications With Nx]]></title>
+        <id>https://smashingmagazine.com/2021/10/optimizing-nextjs-applications-nx/</id>
+        <link href="https://smashingmagazine.com/2021/10/optimizing-nextjs-applications-nx/"/>
+        <updated>2021-10-26T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Nx is a build framework that facilitates optimization, efficient scaling of applications, and other features such as shared libraries and components. In this article, we will be looking at how we can effectively scale Next.js applications by using Nx.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Melvin Kosisochukwu)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Greatest CSS Tricks Vol. I eBook (PDF and EPUB)]]></title>
         <id>https://css-tricks.com/?p=353728</id>
@@ -259,17 +305,6 @@ The post Three-Digit Browser Versions in March 2022 appeared first on CSS-Tricks
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build a Nearly Headless WordPress Website]]></title>
-        <id>https://css-tricks.com/?p=353308</id>
-        <link href="https://css-tricks.com/how-to-build-a-nearly-headless-wordpress-website/"/>
-        <updated>2021-10-18T14:48:34.000Z</updated>
-        <summary type="html"><![CDATA[I believe that a traditional WordPress theme should be able to work as effectively as a static site or a headless web app. The overwhelming majority of WordPress websites are built with a good ol’ fashioned WordPress theme. Most of …
-The post How to Build a Nearly Headless WordPress Website appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Alex Standiford</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Solving CLS Issues In A Next.js-Powered E-Commerce Website (Case Study)]]></title>
         <id>https://smashingmagazine.com/2021/10/nextjs-ecommerce-cls-case-study/</id>
         <link href="https://smashingmagazine.com/2021/10/nextjs-ecommerce-cls-case-study/"/>
@@ -302,17 +337,6 @@ Thank you: @hirdot]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Expandable Sections Within a CSS Grid]]></title>
-        <id>https://css-tricks.com/?p=353473</id>
-        <link href="https://css-tricks.com/expandable-sections-within-a-css-grid/"/>
-        <updated>2021-10-15T16:18:20.000Z</updated>
-        <summary type="html"><![CDATA[I love CSS Grid. I love how, with just a few lines of code, we can achieve fully responsive grid layouts, often without any media queries at all. I’m quite comfortable wrangling CSS Grid to produce interesting layouts, while keeping …
-The post Expandable Sections Within a CSS Grid appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Kev Bonett</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Tips And Tricks For Evaluating UX/UI Designers]]></title>
         <id>https://smashingmagazine.com/2021/10/tips-tricks-evaluating-ux-ui-designers/</id>
         <link href="https://smashingmagazine.com/2021/10/tips-tricks-evaluating-ux-ui-designers/"/>
@@ -320,17 +344,6 @@ The post Expandable Sections Within a CSS Grid appeared first on CSS-Tricks. You
         <summary type="html"><![CDATA[Customers may start using your app because you offer a unique product, but user experience is what makes them stay. For that, you need excellent UX designers, and the know-how to spot them when hiring.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Nataliya Sambir)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Different Degrees of Custom Property Usage]]></title>
-        <id>https://css-tricks.com/?p=353057</id>
-        <link href="https://css-tricks.com/different-degrees-of-custom-property-usage/"/>
-        <updated>2021-10-14T14:35:42.000Z</updated>
-        <summary type="html"><![CDATA[One way to work with Custom Properties is to think of them as design tokens. Colors, spacings, fonts, and whatnot. You set them at the root of the page and use them throughout your CSS. Very useful, and the classic …
-The post Different Degrees of Custom Property Usage appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -481,30 +494,6 @@ The post Different Degrees of Custom Property Usage appeared first on CSS-Tricks
         <summary type="html"><![CDATA[You can find Markdown in many places on the Internet. This article covers different aspects of Markdown and how it interacts with other technology.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Eric Bailey)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Let’s Dive Into Cypress For End-to-End Testing]]></title>
-        <id>https://smashingmagazine.com/2021/09/cypress-end-to-end-testing/</id>
-        <link href="https://smashingmagazine.com/2021/09/cypress-end-to-end-testing/"/>
-        <updated>2021-09-27T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Is end-to-end testing a painful topic for you? In this article, Ramona Schwering explains how to handle end-to-end testing with Cypress and make it make it not so tedious and expensive for yourself, but fun instead.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Ramona Schwering)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.11.2]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.2</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.2"/>
-        <updated>2021-09-26T18:45:39.000Z</updated>
-        <summary type="html"><![CDATA[Fixed: unicode characters in URL caused download error
-Fixed: project root npm install error
-Added: unit test library
-Chore: Dependency updates
-Thank you: @CaptNo1]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
         </author>
     </entry>
 </feed>
