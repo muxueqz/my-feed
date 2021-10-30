@@ -1,10 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-10-29T00:34:38.057Z</id>
+    <id>urn:2021-10-30T00:35:13.064Z</id>
     <title>osmos::feed</title>
-    <updated>2021-10-29T00:34:38.057Z</updated>
+    <updated>2021-10-30T00:35:13.064Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Some Articles About Accessibility I’ve Saved Recently IV]]></title>
+        <id>https://css-tricks.com/?p=354581</id>
+        <link href="https://css-tricks.com/some-articles-about-accessibility-ive-saved-recently-iv/"/>
+        <updated>2021-10-29T18:28:38.000Z</updated>
+        <summary type="html"><![CDATA[A guide to designing accessible, WCAG-compliant focus indicators — Sara Soueidan says you can make more accessible focus outlines by doing your own, rather than leaving it to the browser — as long as you do it right. Deep dive! 
+…
+The post Some Articles About Accessibility I’ve Saved Recently IV appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create Your Own Automated Social Images With Resoc]]></title>
+        <id>https://css-tricks.com/?p=354296</id>
+        <link href="https://css-tricks.com/create-your-own-automated-social-images-with-resoc/"/>
+        <updated>2021-10-29T14:14:55.000Z</updated>
+        <summary type="html"><![CDATA[There has been a lot of talk about automated social images lately. GitHub has created its own. A WordPress plugin has been acquired by Jetpack. There is definitely interest! People like Ryan Filler and Zach Leatherman have implemented …
+The post Create Your Own Automated Social Images With Resoc appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Philippe Bernard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[50 Resources And Tools To Turbocharge Your Copywriting Skills]]></title>
+        <id>https://smashingmagazine.com/2021/10/resources-tools-turbocharge-copywriting-skills/</id>
+        <link href="https://smashingmagazine.com/2021/10/resources-tools-turbocharge-copywriting-skills/"/>
+        <updated>2021-10-29T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Stop wasting time and effort writing copy that falls flat. Raise your copywriting game and boost your powers of persuasion with these rich and informative online resources.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Freya Giles)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Okhsv and Okhsl]]></title>
         <id>https://css-tricks.com/?p=354922</id>
@@ -226,17 +259,6 @@ The post Can Include (a Certain HTML element within another Certain HTML Element
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Exploring the CSS Paint API: Rounding Shapes]]></title>
-        <id>https://css-tricks.com/?p=353391</id>
-        <link href="https://css-tricks.com/exploring-the-css-paint-api-rounding-shapes/"/>
-        <updated>2021-10-22T14:02:54.000Z</updated>
-        <summary type="html"><![CDATA[Adding borders to complex shapes is a pain, but rounding the corner of complex shapes is a nightmare! Luckily, the CSS Paint API is here to the rescue! That’s what we’re going to look at as part of this “Exploring …
-The post Exploring the CSS Paint API: Rounding Shapes appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How To Build A Real-Time Multi-User Game From Scratch]]></title>
         <id>https://smashingmagazine.com/2021/10/real-time-multi-user-game/</id>
         <link href="https://smashingmagazine.com/2021/10/real-time-multi-user-game/"/>
@@ -244,23 +266,6 @@ The post Exploring the CSS Paint API: Rounding Shapes appeared first on CSS-Tric
         <summary type="html"><![CDATA[This article highlights the process, technical decisions and lessons learned behind building the real-time game Autowuzzler. Learn how to share game state across multiple clients in real-time with Colyseus, do physics calculations with Matter.js, store data in Supabase.io and build the front-end with SvelteKit.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Martin Grubinger)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What if… you could use Visual Studio Code as the editor of in-browser Developer Tools?]]></title>
-        <id>https://css-tricks.com/?p=354537</id>
-        <link href="https://christianheilmann.com/2021/10/12/what-if-you-could-use-visual-studio-code-as-the-editor-of-in-browser-developer-tools/"/>
-        <updated>2021-10-21T22:14:21.000Z</updated>
-        <summary type="html"><![CDATA[It’s not uncommon for my front-end workflow to go something like this:
-Work on thing.
-See that thing in an automatically refreshed browser.
-See something wrong with that thing.
-Inspect and correct the thing in DevTools.
-Apply the correct code 
-…
-The post What if… you could use Visual Studio Code as the editor of in-browser Developer Tools? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
@@ -503,16 +508,6 @@ Thank you: @hirdot]]></summary>
         <summary type="html"><![CDATA[Many websites have some sort of search feature because it helps users navigate through their content easily. Implementing it the right way can be tricky and might not give a good user experience. In this tutorial, we will be integrating Algolia, a popular and powerful search service for the best experience on our Nuxt site.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Miracle Onyenma)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Time Of Transition (October 2021 Desktop Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2021/09/desktop-wallpaper-calendars-october-2021/</id>
-        <link href="https://smashingmagazine.com/2021/09/desktop-wallpaper-calendars-october-2021/"/>
-        <updated>2021-09-30T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Get your desktop ready for fall and the upcoming Halloween season with a fresh batch of desktop wallpapers. Created with love by designers and artists from across the globe, they come in versions with and without a calendar for October 2021.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
         </author>
     </entry>
 </feed>
