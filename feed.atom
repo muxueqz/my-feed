@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-10-30T00:35:13.064Z</id>
+    <id>urn:2021-10-31T00:37:48.964Z</id>
     <title>osmos::feed</title>
-    <updated>2021-10-30T00:35:13.064Z</updated>
+    <updated>2021-10-31T00:37:48.964Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[多租户环境中的 TCP 限速（基于 iptables）]]></title>
+        <id>https://www.kawabangga.com/?p=4594</id>
+        <link href="https://www.kawabangga.com/posts/4594"/>
+        <updated>2021-10-30T08:19:15.000Z</updated>
+        <summary type="html"><![CDATA[我们有个服务以类似 SideCar 的方式和应用一起运行，SideCar 和应用通过 Unix Domain  […]
+Continue reading...
+The post 多租户环境中的 TCP 限速（基于 iptables） first appeared on 卡瓦邦噶！.
+
+相关文章:
+
+uWSGI socket 队列被占满的问题
+Apache2 “AH00558: apache2: Could not reliably…
+DNS 解析的原理
+HTTP连接池（基于Python的requests和urllib3）
+做一件事，做好它。——苹果]]></summary>
+        <author>
+            <name>laixintao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Some Articles About Accessibility I’ve Saved Recently IV]]></title>
         <id>https://css-tricks.com/?p=354581</id>
@@ -498,16 +518,6 @@ Thank you: @hirdot]]></summary>
         <summary type="html"><![CDATA[In this article, we’ll be looking at how to set up a gallery that is expandable as well as accessible with a few tips and tricks along the way. Let’s get started!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Silvestar Bistrović)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Implement Search Functionality In Your Nuxt App Using Algolia InstantSearch]]></title>
-        <id>https://smashingmagazine.com/2021/10/search-functionality-nuxt-app-algolia-instantsearch/</id>
-        <link href="https://smashingmagazine.com/2021/10/search-functionality-nuxt-app-algolia-instantsearch/"/>
-        <updated>2021-10-01T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Many websites have some sort of search feature because it helps users navigate through their content easily. Implementing it the right way can be tricky and might not give a good user experience. In this tutorial, we will be integrating Algolia, a popular and powerful search service for the best experience on our Nuxt site.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Miracle Onyenma)</name>
         </author>
     </entry>
 </feed>
