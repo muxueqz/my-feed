@@ -1,10 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-11-04T00:36:41.091Z</id>
+    <id>urn:2021-11-05T00:36:08.299Z</id>
     <title>osmos::feed</title>
-    <updated>2021-11-04T00:36:41.091Z</updated>
+    <updated>2021-11-05T00:36:08.299Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Introducing Svelte, and Comparing Svelte with React and Vue]]></title>
+        <id>https://css-tricks.com/?p=355937</id>
+        <link href="https://css-tricks.com/introducing-svelte-and-comparing-svelte-with-react-and-vue/"/>
+        <updated>2021-11-04T21:20:02.000Z</updated>
+        <summary type="html"><![CDATA[Josh Collingsworth is clearly a big fan of Svelte, so while this is a fun and useful comparison article, it’s here to crown Svelte the winner all the way through.
+A few things I find compelling:
+One of the 
+…
+The post Introducing Svelte, and Comparing Svelte with React and Vue appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smashing Podcast Episode 43 With Matthew Phillips: What Is Astro?]]></title>
+        <id>https://smashingmagazine.com/2021/11/smashing-podcast-episode-43/</id>
+        <link href="https://smashingmagazine.com/2021/11/smashing-podcast-episode-43/"/>
+        <updated>2021-11-04T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this episode, we’re talking about Astro. Will this modern static site builder launch you into the stratosphere? Drew McLellan talks to developer Matthew Phillips to find out.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Drew McLellan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fixing the Drift in Shape Rotations]]></title>
+        <id>https://css-tricks.com/?p=356047</id>
+        <link href="https://css-tricks.com/fixing-the-drift-in-shape-rotations/"/>
+        <updated>2021-11-04T17:52:29.000Z</updated>
+        <summary type="html"><![CDATA[Steve Ruiz calls this post an “extra-obscure edition of design tool micro-UX,” but I find it fascinating! If you select a bunch of elements in a design tool, then rotate then, then later select those same elements and try to …
+The post Fixing the Drift in Shape Rotations appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scroll-Linked Animations With the Web Animations API (WAAPI) and ScrollTimeline]]></title>
+        <id>https://css-tricks.com/?p=355060</id>
+        <link href="https://css-tricks.com/scroll-linked-animations-with-the-web-animations-api-waapi-and-scrolltimeline/"/>
+        <updated>2021-11-04T14:26:40.000Z</updated>
+        <summary type="html"><![CDATA[The Scroll-linked Animations specification is an upcoming and experimental addition that allows us to link animation-progress to scroll-progress: as you scroll up and down a scroll container, a linked animation also advances or rewinds accordingly.
+We covered some use cases …
+The post Scroll-Linked Animations With the Web Animations API (WAAPI) and ScrollTimeline appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Bramus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GraphQL On The Front-End (React And Apollo)]]></title>
+        <id>https://smashingmagazine.com/2021/11/graphql-frontend-react-apollo/</id>
+        <link href="https://smashingmagazine.com/2021/11/graphql-frontend-react-apollo/"/>
+        <updated>2021-11-04T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Within the last decade, technologies like GraphQL have changed how we build web apps and how they communicate with each other. GraphQL provides certain benefits over REST APIs — let’s find out what they are.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (David Atanda)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chapter 10: Browser Wars]]></title>
         <id>https://css-tricks.com/?p=354925</id>
@@ -207,40 +264,6 @@ The post Create Your Own Automated Social Images With Resoc appeared first on CS
 The post Okhsv and Okhsl appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vite + _____]]></title>
-        <id>https://css-tricks.com/?p=355166</id>
-        <link href="https://css-tricks.com/vite-plus-blank/"/>
-        <updated>2021-10-28T18:07:21.000Z</updated>
-        <summary type="html"><![CDATA[Vite, “Next Generation Frontend Tooling” from Evan You, has been capturing a lot of attention. I’ve heard rave reviews from developers, even in private chats (you gotta try this!). Being from Evan, Vite works great with Vue, …
-The post Vite + _____ appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge Conflicts: What They Are and How to Deal with Them​]]></title>
-        <id>https://css-tricks.com/?p=354389</id>
-        <link href="https://css-tricks.com/merge-conflicts-what-they-are-and-how-to-deal-with-them/"/>
-        <updated>2021-10-28T14:07:12.000Z</updated>
-        <summary type="html"><![CDATA[Merge conflicts... Nobody likes them. Some of us even fear them. But they are a fact of life when you're working with Git, especially when you're teaming up with other developers. In most cases, merge conflicts aren't as scary as you might think. In this fourth part of our “Advanced Git” series we'll talk about when they can happen, what they actually are, and how to solve them.
-The post Merge Conflicts: What They Are and How to Deal with Them​ appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Tobias Günther</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building an Angular Data Grid With Filtering]]></title>
-        <id>https://css-tricks.com/?p=354782</id>
-        <link href="https://css-tricks.com/building-an-angular-data-grid-with-filtering/"/>
-        <updated>2021-10-28T14:03:11.000Z</updated>
-        <summary type="html"><![CDATA[(This is a sponsored post.)
-Kendo UI makes it possible to go from a basic idea to a full-fledged app, thanks to a massive component library. We’re talking well over 100 components that are ready for you to drop …
-The post Building an Angular Data Grid With Filtering appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
@@ -523,16 +546,6 @@ Thank you: @hirdot]]></summary>
         <summary type="html"><![CDATA[Every once in a while, we publish [freebies](https://www.smashingmagazine.com/category/freebies/) related to different occasions and themes. We hope that with this icon set, every designer will be able to find their own use case and contribute to saving lives. Free for personal and commercial use.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Anton Tyschenko)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Guide To CSS Debugging]]></title>
-        <id>https://smashingmagazine.com/2021/10/guide-debugging-css/</id>
-        <link href="https://smashingmagazine.com/2021/10/guide-debugging-css/"/>
-        <updated>2021-10-06T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Debugging in CSS means figuring out what might be the problem when you have unexpected layout results. We’ll look at a few categories bugs often fit into, see how we can evaluate the situation, and explore techniques that help prevent these bugs.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Stephanie Eckles)</name>
         </author>
     </entry>
 </feed>
