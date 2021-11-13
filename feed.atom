@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-11-12T00:38:04.085Z</id>
+    <id>urn:2021-11-13T00:35:41.972Z</id>
     <title>osmos::feed</title>
-    <updated>2021-11-12T00:38:04.085Z</updated>
+    <updated>2021-11-13T00:35:41.972Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Interactive Rebase: Clean up your Commit History]]></title>
+        <id>https://css-tricks.com/?p=355658</id>
+        <link href="https://css-tricks.com/interactive-rebase-clean-up-your-commit-history/"/>
+        <updated>2021-11-12T15:16:24.000Z</updated>
+        <summary type="html"><![CDATA[Interactive Rebase is the Swiss Army knife of Git commands: lots of use cases and lots of possibilities! It's really a great addition to any developer's tool chain, because it lets you revise your local commit history—before you share your work with the rest of the team. Let's see what you can do with an interactive rebase and then look at some practical examples.
+The post Interactive Rebase: Clean up your Commit History appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Tobias Günther</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Useful React Hooks That You Can Use In Your Projects]]></title>
+        <id>https://smashingmagazine.com/2021/11/useful-react-hooks/</id>
+        <link href="https://smashingmagazine.com/2021/11/useful-react-hooks/"/>
+        <updated>2021-11-12T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The React team introduced several hooks in React 16.8 which you can use from third-party providers in your application, or even create your own custom hook. In this tutorial, we’ll take a look at some of the most useful hooks in React and how to use them.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Ifeanyi Dike)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Semantic menu context]]></title>
         <id>https://css-tricks.com/?p=356652</id>
@@ -227,17 +248,6 @@ The post Favicons: How to Make Sure Browsers Only Download the SVG Version appea
 The post Yes, Design Systems Do Improve Developer Efficiency and Design Consistency appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Robin Rendle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create an Animated Chart of Nested Squares Using Masks]]></title>
-        <id>https://css-tricks.com/?p=355623</id>
-        <link href="https://css-tricks.com/how-to-create-an-animated-chart-of-nested-squares-using-masks/"/>
-        <updated>2021-11-05T14:45:18.000Z</updated>
-        <summary type="html"><![CDATA[We have many well-known chart types: bar, donut, line, pie, you name it. All popular chart libraries support these. Then there are the chart types that do not even have a name. Check out this dreamt-up chart with stacked (nested) …
-The post How to Create an Animated Chart of Nested Squares Using Masks appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Mészáros Róbert</name>
         </author>
     </entry>
     <entry>
@@ -530,16 +540,6 @@ Thank you: @hirdot]]></summary>
         <summary type="html"><![CDATA[Customers may start using your app because you offer a unique product, but user experience is what makes them stay. For that, you need excellent UX designers, and the know-how to spot them when hiring.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Nataliya Sambir)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smart CSS Solutions For Common UI Challenges]]></title>
-        <id>https://smashingmagazine.com/2021/10/modern-css-solutions-for-common-problems/</id>
-        <link href="https://smashingmagazine.com/2021/10/modern-css-solutions-for-common-problems/"/>
-        <updated>2021-10-14T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Writing CSS has probably never been more fun and exciting than it is today. In this post we’ll take a look at common problems and use cases we all have to face in our work and how to solve them with modern CSS. If you’re interested, we’ve also just recently covered [CSS auditing tools](https://www.smashingmagazine.com/2021/03/css-auditing-tools/), [CSS generators](https://www.smashingmagazine.com/2021/03/css-generators/), [front-end boilerplates](https://www.smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/) and [VS code extensions](https://www.smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/) — you might find them useful, too.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
         </author>
     </entry>
 </feed>
