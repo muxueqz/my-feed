@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-11-15T00:36:56.329Z</id>
+    <id>urn:2021-11-16T00:36:56.929Z</id>
     <title>osmos::feed</title>
-    <updated>2021-11-15T00:36:56.329Z</updated>
+    <updated>2021-11-16T00:36:56.929Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Defining and Applying UI Themes Using the Mimcss CSS-in-JS Library]]></title>
+        <id>https://css-tricks.com/?p=355894</id>
+        <link href="https://css-tricks.com/defining-and-applying-ui-themes-using-the-mimcss-css-in-js-library/"/>
+        <updated>2021-11-15T15:32:13.000Z</updated>
+        <summary type="html"><![CDATA[Theming UI refers to the ability to perform a change in visual styles in a consistent manner that defines the “look and feel” of a site. Swapping color palettes, à la dark mode or some other means, is a good …
+The post Defining and Applying UI Themes Using the Mimcss CSS-in-JS Library appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Michael Michlin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Powerful Terminal And Command-Line (CLI) Tools For Modern Web Development]]></title>
+        <id>https://smashingmagazine.com/2021/11/powerful-terminal-commandline-tools-modern-web-development/</id>
+        <link href="https://smashingmagazine.com/2021/11/powerful-terminal-commandline-tools-modern-web-development/"/>
+        <updated>2021-11-15T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What’s your favorite command-line tool? In this post, Louis Lazaris shares a collection of relevant command-line apps and utilities that he has personally come across in the past few years. If there’s a useful one that hasn’t been mentioned and one you use regularly, please do share it in the comments.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Louis Lazaris)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coredns 源码阅读（导读）]]></title>
         <id>https://www.kawabangga.com/?p=4607</id>
@@ -254,19 +275,6 @@ Python正则表达式解惑
 DB资料集]]></summary>
         <author>
             <name>laixintao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Favicons: How to Make Sure Browsers Only Download the SVG Version]]></title>
-        <id>https://css-tricks.com/?p=355780</id>
-        <link href="https://css-tricks.com/favicons-how-to-make-sure-browsers-only-download-the-svg-version/"/>
-        <updated>2021-11-05T20:47:32.000Z</updated>
-        <summary type="html"><![CDATA[Šime Vidas DM’d me the other day about this thread from subzey on Twitter. My HTML for favicons was like this:
-<!-- Warning! Typo! --<link rel="icon" href="/favicon.ico" size="any"<link rel="icon" href="/favicon.svg" type="image/svg+xml"
-The attribute size is a typo there, …
-The post Favicons: How to Make Sure Browsers Only Download the SVG Version appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
